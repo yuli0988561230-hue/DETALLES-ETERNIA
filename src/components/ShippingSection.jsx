@@ -68,6 +68,10 @@ export default function ShippingSection() {
             <p className="text-rose-100 text-sm leading-relaxed">
               Y si te encuentras en <strong>Lago Agrio</strong> (Nueva Loja), realizamos entregas personales inmediatas en salones de eventos, hoteles como La Cascada, domicilios o sorpresas de cumpleaños.
             </p>
+            <div className="pt-2 text-xs text-amber-200 flex items-center gap-2">
+              <span>🌎</span>
+              <span><strong>¿Estás en EE.UU., España o fuera de Ecuador?</strong> Te enviamos foto y video en HD de tu arreglo antes de entregarlo para tu completa tranquilidad.</span>
+            </div>
           </div>
         </div>
 

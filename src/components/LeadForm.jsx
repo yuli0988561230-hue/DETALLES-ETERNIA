@@ -16,7 +16,8 @@ const CITIES = [
   'Ibarra (Imbabura)',
   'Manta / Portoviejo (Manabí)',
   'Shushufindi / Joya de los Sachas / Coca',
-  'Otra Ciudad del Ecuador'
+  'Otra Ciudad del Ecuador',
+  '🌎 Pido desde el Extranjero (EE.UU., España, etc.) para entregar en Ecuador'
 ];
 
 export default function LeadForm({ selectedProduct }) {
