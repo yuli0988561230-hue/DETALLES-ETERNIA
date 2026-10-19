@@ -21,8 +21,8 @@ export default function Navbar({ onOpenAdmin, onScrollToForm }) {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
         {/* Brand */}
         <a href="#" className="flex items-center gap-3 group">
-          <div className="w-12 h-12 rounded-full bg-gradient-to-br from-rose-100 to-rose-200 border border-rose-300/60 flex items-center justify-center shadow-inner group-hover:scale-105 transition-transform">
-            <span className="text-2xl">🌸</span>
+          <div className="w-12 h-12 rounded-full overflow-hidden border-2 border-rose-300 shadow-md group-hover:scale-105 transition-transform bg-white shrink-0">
+            <img src="/logo.jpeg" alt="Detalles Eternia" className="w-full h-full object-cover" />
           </div>
           <div>
             <span className="font-serif text-2xl font-bold tracking-tight text-slate-900 group-hover:text-rose-700 transition-colors">

@@ -11,7 +11,7 @@ export default function Footer({ onOpenAdmin }) {
           {/* Brand Info */}
           <div className="space-y-4 md:col-span-2">
             <div className="flex items-center gap-3">
-              <span className="text-3xl">🌸</span>
+              <img src="/logo.jpeg" alt="Detalles Eternia" className="w-10 h-10 rounded-full object-cover border border-rose-300" />
               <span className="font-serif text-2xl font-bold text-white">Detalles Eternia</span>
             </div>
             <p className="text-xs sm:text-sm text-slate-400 leading-relaxed max-w-sm">
