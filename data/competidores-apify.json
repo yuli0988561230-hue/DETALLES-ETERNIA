@@ -1,0 +1,995 @@
+[
+  {
+    "title": "Diseño de Flores",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Floristería",
+    "address": "506 51st St, West New York, NJ 07093",
+    "neighborhood": null,
+    "street": "506 51st St",
+    "city": "West New York",
+    "postalCode": "07093",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "phone": "(201) 442-0693",
+    "phoneUnformatted": "+12014420693",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 40.783399,
+      "lng": -74.0210473
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJa2sGRENZwokR1opkh9ohdRM",
+    "categories": [
+      "Floristería"
+    ],
+    "fid": "0x89c2594344066b6b:0x137521da87648ad6",
+    "cid": "1402064081453877974",
+    "reviewsCount": 8,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 5
+    },
+    "imagesCount": 51,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T15:11:02.899Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "lunes",
+        "hours": "9 AM to 11 PM"
+      },
+      {
+        "day": "martes",
+        "hours": "9 AM to 11 PM"
+      },
+      {
+        "day": "miércoles",
+        "hours": "9 AM to 11 PM"
+      },
+      {
+        "day": "jueves",
+        "hours": "9 AM to 11 PM"
+      },
+      {
+        "day": "viernes",
+        "hours": "9 AM to 11 PM"
+      },
+      {
+        "day": "sábado",
+        "hours": "9 AM to 11 PM"
+      },
+      {
+        "day": "domingo",
+        "hours": "9 AM to 11 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dise%C3%B1o%20de%20Flores&query_place_id=ChIJa2sGRENZwokR1opkh9ohdRM",
+    "searchPageUrl": "https://www.google.com/maps/search/flores%20eternas%20arreglos%20ecuador?hl=es",
+    "searchString": "flores eternas arreglos ecuador",
+    "language": "es",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLedOm80NZS34Q9P4ZKNs5DBsaW4c5nGh4j5u2-2vHnAtTn4mSKnlo7TRwaUltDFJ29cgFh2-8ONTWuCJ1ABd9eWlP_LySErSMpWoJZggCJIcoVfpx8dMi7n6QlGttFDqzmIUyI=w408-h544-k-no",
+    "kgmid": "/g/11q9ml1wzz",
+    "businessProfileId": null
+  },
+  {
+    "title": "Forever Love Ecuador - Rosas Eternas",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Tienda de regalos",
+    "address": "Martín Icaza OE5-21 y, 170140 Quito, Ecuador",
+    "neighborhood": null,
+    "street": "Martín Icaza OE5-21 y",
+    "city": "Quito",
+    "postalCode": "170140",
+    "state": null,
+    "countryCode": "EC",
+    "website": "http://www.foreverlove.com.ec/",
+    "phone": "+593 98 114 9006",
+    "phoneUnformatted": "+593981149006",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -0.3119722,
+      "lng": -78.5597474
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJjdQKdk2F1ZERspE2Oxpn2OE",
+    "categories": [
+      "Tienda de regalos"
+    ],
+    "fid": "0x91d5854d760ad48d:0xe1d8671a3b3691b2",
+    "cid": "16273870615863529906",
+    "reviewsCount": 21,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 4,
+      "fiveStar": 17
+    },
+    "imagesCount": 94,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T15:11:02.901Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "lunes",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "martes",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "miércoles",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "jueves",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "viernes",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "sábado",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Almuerzo": [
+        {
+          "day": "lunes",
+          "hours": "12:30–1:30 p.m."
+        },
+        {
+          "day": "martes",
+          "hours": "12:30–1:30 p.m."
+        },
+        {
+          "day": "miércoles",
+          "hours": "12:30–1:30 p.m."
+        },
+        {
+          "day": "jueves",
+          "hours": "12:30–1:30 p.m."
+        },
+        {
+          "day": "viernes",
+          "hours": "12:30–1:30 p.m."
+        },
+        {
+          "day": "sábado",
+          "hours": "Cerrado"
+        },
+        {
+          "day": "domingo",
+          "hours": "Cerrado"
+        }
+      ],
+      "Horario de atención en línea": [
+        {
+          "day": "lunes",
+          "hours": "Abierto las 24 horas"
+        },
+        {
+          "day": "martes",
+          "hours": "Abierto las 24 horas"
+        },
+        {
+          "day": "miércoles",
+          "hours": "Abierto las 24 horas"
+        },
+        {
+          "day": "jueves",
+          "hours": "Abierto las 24 horas"
+        },
+        {
+          "day": "viernes",
+          "hours": "Abierto las 24 horas"
+        },
+        {
+          "day": "sábado",
+          "hours": "Abierto las 24 horas"
+        },
+        {
+          "day": "domingo",
+          "hours": "Abierto las 24 horas"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accesibilidad": [
+        {
+          "Espacio accesible para personas en silla de ruedas": true
+        },
+        {
+          "Sanitarios accesibles para personas en silla de ruedas": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Forever%20Love%20Ecuador%20-%20Rosas%20Eternas&query_place_id=ChIJjdQKdk2F1ZERspE2Oxpn2OE",
+    "searchPageUrl": "https://www.google.com/maps/search/flores%20eternas%20arreglos%20ecuador?hl=es",
+    "searchString": "flores eternas arreglos ecuador",
+    "language": "es",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLepo8Mgkwi5MrU1xNIP9kO9XEkDAD6vUGXpMa2TnxmhEEaiTlmzM9KHJCT6yng9dLfrarHB9DanYiUUJJHDXM0s_XxiW0juRfZMGnmsJXNVYWd3cU4EO_UIJoHkVdlK8du16FmS=w408-h408-k-no",
+    "kgmid": "/g/11pq4clc7p",
+    "businessProfileId": "10590826697340147570"
+  },
+  {
+    "title": "Eternity Flor Ecuador Sas",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Floristería",
+    "address": "El Telégrafo, y y El Tiempo esquina, 170135 Quito, Ecuador",
+    "neighborhood": "Iñaquito",
+    "street": "El Telégrafo, y y El Tiempo esquina",
+    "city": "Quito",
+    "postalCode": "170135",
+    "state": null,
+    "countryCode": "EC",
+    "website": "http://www.eternityflor.com/",
+    "phone": "+593 98 328 2451",
+    "phoneUnformatted": "+593983282451",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -0.1727497,
+      "lng": -78.482184
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJxeoiriib1ZERJ4DIyxRlULY",
+    "categories": [
+      "Floristería",
+      "Tienda de flores secas",
+      "Mercado de flores",
+      "Salón para eventos",
+      "Tienda de regalos",
+      "Organizador de bodas",
+      "Floristería mayorista"
+    ],
+    "fid": "0x91d59b28ae22eac5:0xb6506514cbc88027",
+    "cid": "13137111253032402983",
+    "reviewsCount": 183,
+    "reviewsDistribution": {
+      "oneStar": 4,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 3,
+      "fiveStar": 175
+    },
+    "imagesCount": 429,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T15:11:02.901Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "lunes",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "martes",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "miércoles",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "jueves",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "viernes",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "sábado",
+        "hours": "8 AM to 4 PM"
+      },
+      {
+        "day": "domingo",
+        "hours": "Cerrado"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Eternity%20Flor%20Ecuador%20Sas&query_place_id=ChIJxeoiriib1ZERJ4DIyxRlULY",
+    "searchPageUrl": "https://www.google.com/maps/search/flores%20eternas%20arreglos%20ecuador?hl=es",
+    "searchString": "flores eternas arreglos ecuador",
+    "language": "es",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdw61l2dvhxyp1lcybbx5YnYtohwO6CUouTjy8_kIbgrs_sWaZ4oTO83UUcQqRYrlvgqDM-o7a6xSsOjKVNRVL7qghqPslvKZ5WQkDLMSAKdNBcOCPOMABXsoeUl09L1znRHYZ1Dg=w408-h408-k-no",
+    "kgmid": "/g/11h_wrg6mr",
+    "businessProfileId": "8472510864489857100"
+  },
+  {
+    "title": "Rosas Eternas Cuenca",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Floristería",
+    "address": "junto a Jairo Peluqueria local A4, Alfonso Cordero 2-66 y Manuel J calle Centro Comercial el Vergel, Cuenca, Ecuador",
+    "neighborhood": "Huayna-Cápac",
+    "street": "junto a Jairo Peluqueria local A4, Alfonso Cordero 2-66 y Manuel J calle Centro Comercial el Vergel",
+    "city": "Cuenca",
+    "postalCode": null,
+    "state": null,
+    "countryCode": "EC",
+    "website": "https://www.nextar.shop/rosaseternascuencaecuador",
+    "phone": "+593 98 784 8674",
+    "phoneUnformatted": "+593987848674",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": -2.9073535,
+      "lng": -79.0043811
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJjyibJsgjzZERPOHIsJQrvcY",
+    "categories": [
+      "Floristería"
+    ],
+    "fid": "0x91cd23c8269b288f:0xc6bd2b94b0c8e13c",
+    "cid": "14320650307729154364",
+    "reviewsCount": 90,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 86
+    },
+    "imagesCount": 680,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T15:11:02.901Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "lunes",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "martes",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "miércoles",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "jueves",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "viernes",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "sábado",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "domingo",
+        "hours": "10 AM to 5 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accesibilidad": [
+        {
+          "Entrada accesible para personas en silla de ruedas": true
+        },
+        {
+          "Espacio accesible para personas en silla de ruedas": true
+        },
+        {
+          "Estacionamiento accesible para personas en silla de ruedas": true
+        },
+        {
+          "Sanitarios accesibles para personas en silla de ruedas": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rosas%20Eternas%20Cuenca&query_place_id=ChIJjyibJsgjzZERPOHIsJQrvcY",
+    "searchPageUrl": "https://www.google.com/maps/search/flores%20eternas%20arreglos%20ecuador?hl=es",
+    "searchString": "flores eternas arreglos ecuador",
+    "language": "es",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfUv70NO629jp0r-kABdb_xK_8Gamv_Un7PSv6JjED4jsLAf8Lwj9dUpGV7U39OLwVyJATcPxvLOWZ3z58qmosfx1NYFkppYDDCrnIhIX5EbqTLx1AIFIlpTA8XFPWzbugrmxvV=w408-h454-k-no",
+    "kgmid": "/g/11gltvsrql",
+    "businessProfileId": "4602378912141198126"
+  },
+  {
+    "title": "Floreria Flowers Damita Lago Agrio",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Tienda de regalos",
+    "address": "Lago Agrio, Ecuador Calle Chimborazo y, Jose M. Urbina y Maria Urbina, 210150, Ecuador",
+    "neighborhood": null,
+    "street": "Lago Agrio, Ecuador Calle Chimborazo y, Jose M. Urbina y Maria Urbina",
+    "city": "Nueva Loja",
+    "postalCode": "210150",
+    "state": null,
+    "countryCode": "EC",
+    "website": "https://wa.me/593991673378",
+    "phone": "+593 99 167 3378",
+    "phoneUnformatted": "+593991673378",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 0.0895387,
+      "lng": -76.9024896
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJBb1IlBgdKI4Rb8oyY69si_E",
+    "categories": [
+      "Tienda de regalos",
+      "Tienda de globos",
+      "Entrega de flores"
+    ],
+    "fid": "0x8e281d189448bd05:0xf18b6caf6332ca6f",
+    "cid": "17405124685442763375",
+    "reviewsCount": 16,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 16
+    },
+    "imagesCount": 198,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T15:12:23.436Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "lunes",
+        "hours": "Abierto las 24 horas"
+      },
+      {
+        "day": "martes",
+        "hours": "Abierto las 24 horas"
+      },
+      {
+        "day": "miércoles",
+        "hours": "Abierto las 24 horas"
+      },
+      {
+        "day": "jueves",
+        "hours": "Abierto las 24 horas"
+      },
+      {
+        "day": "viernes",
+        "hours": "Abierto las 24 horas"
+      },
+      {
+        "day": "sábado",
+        "hours": "Abierto las 24 horas"
+      },
+      {
+        "day": "domingo",
+        "hours": "Abierto las 24 horas"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accesibilidad": [
+        {
+          "Entrada accesible para personas en silla de ruedas": true
+        },
+        {
+          "Espacio accesible para personas en silla de ruedas": true
+        },
+        {
+          "Estacionamiento accesible para personas en silla de ruedas": true
+        },
+        {
+          "Sanitarios accesibles para personas en silla de ruedas": true
+        },
+        {
+          "Bucle magnético de asistencia": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Floreria%20Flowers%20Damita%20Lago%20Agrio&query_place_id=ChIJBb1IlBgdKI4Rb8oyY69si_E",
+    "searchPageUrl": "https://www.google.com/maps/search/floristerias%20en%20lago%20agrio%20sucumbios?hl=es",
+    "searchString": "floristerias en lago agrio sucumbios",
+    "language": "es",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLePH_XjDI5enmzebf0ZGP185Pi_z2m_CLpn1MVp85EVUVqAlH9ABZ5K9s1nJpMQnqgjxElLqtqmPzjGYFyNVrHRwLj4PtG5A4b2_e08WauTPhHFj_rgeSrNC8jfg--0XAr5-IPJlLnOcs0=w408-h408-k-no",
+    "kgmid": "/g/11z2v5zwlf",
+    "businessProfileId": "7346543906991817984"
+  },
+  {
+    "title": "Floreria Cupido",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Floristería",
+    "address": "Lago Agrio, Av. Del Maestro y Chinchipe, 210150 Nueva Loja, Ecuador",
+    "neighborhood": null,
+    "street": "Lago Agrio, Av. Del Maestro y Chinchipe",
+    "city": "Nueva Loja",
+    "postalCode": "210150",
+    "state": null,
+    "countryCode": "EC",
+    "website": "https://beacons.ai/cupido",
+    "phone": "+593 98 673 7889",
+    "phoneUnformatted": "+593986737889",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 0.0880218,
+      "lng": -76.8964062
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ370-KiMjKI4RrSiUwK3aEJU",
+    "categories": [
+      "Floristería"
+    ],
+    "fid": "0x8e2823232a3ebddf:0x9510daadc09428ad",
+    "cid": "10741325551073765549",
+    "reviewsCount": 110,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 106
+    },
+    "imagesCount": 769,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T15:12:23.436Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "lunes",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "martes",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "miércoles",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "jueves",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "viernes",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "sábado",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "domingo",
+        "hours": "9 AM to 1:30 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Floreria%20Cupido&query_place_id=ChIJ370-KiMjKI4RrSiUwK3aEJU",
+    "searchPageUrl": "https://www.google.com/maps/search/floristerias%20en%20lago%20agrio%20sucumbios?hl=es",
+    "searchString": "floristerias en lago agrio sucumbios",
+    "language": "es",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf5QHNkMk0QHNrF05iX81ofNVpt_NaFuheWilkoWXwboA4vxmKfGaZAOXdWi107OGzjIaVyhpq0mZc1Pou5uE80RV1qpwumTB6jcUoN0boUrUy2zoPKKEEvBzshdNBqbMVyhOoJcY70lfo=w408-h544-k-no",
+    "kgmid": "/g/11qh7f3396",
+    "businessProfileId": "15336929628601743472"
+  },
+  {
+    "title": "KEKA´S FLORISTERIA LA MAXIMA EXPRESION DE LAS FLORES",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Tienda de artículos para el hogar",
+    "address": "Francisco de Orellana 318, Nueva Loja, Ecuador",
+    "neighborhood": null,
+    "street": "Francisco de Orellana 318",
+    "city": "Nueva Loja",
+    "postalCode": null,
+    "state": null,
+    "countryCode": "EC",
+    "phone": "+593 98 600 6216",
+    "phoneUnformatted": "+593986006216",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 0.0845434,
+      "lng": -76.8841041
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ7eD6X0sjKI4REoFh4FNfmyI",
+    "categories": [
+      "Tienda de artículos para el hogar"
+    ],
+    "fid": "0x8e28234b5ffae0ed:0x229b5f53e0618112",
+    "cid": "2493691632531112210",
+    "reviewsCount": 4,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 4
+    },
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T15:12:23.436Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "lunes",
+        "hours": "7:15 AM to 8:30 PM"
+      },
+      {
+        "day": "martes",
+        "hours": "7:15 AM to 8:30 PM"
+      },
+      {
+        "day": "miércoles",
+        "hours": "7:15 AM to 8:30 PM"
+      },
+      {
+        "day": "jueves",
+        "hours": "7:15 AM to 8:30 PM"
+      },
+      {
+        "day": "viernes",
+        "hours": "7:15 AM to 8:30 PM"
+      },
+      {
+        "day": "sábado",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "domingo",
+        "hours": "8 AM to 7 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=KEKA%C2%B4S%20FLORISTERIA%20LA%20MAXIMA%20EXPRESION%20DE%20LAS%20FLORES&query_place_id=ChIJ7eD6X0sjKI4REoFh4FNfmyI",
+    "searchPageUrl": "https://www.google.com/maps/search/floristerias%20en%20lago%20agrio%20sucumbios?hl=es",
+    "searchString": "floristerias en lago agrio sucumbios",
+    "language": "es",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcfsNskyvbGwDz-fNmV4ujD1BAaVrC6m2Z4pPceQfOWHvrKz2Ob7woGfMTNTvNzoZIjG_QGuXqoBMMNxLTX82GQlx7u-utX-2SLnobs7gh9tJWw-QTl3i6lJwvO22JWFHhgR4R1Hw=w426-h240-k-no",
+    "kgmid": "/g/11jnyk8_mx",
+    "businessProfileId": "2608907766723343945"
+  },
+  {
+    "title": "Decoflor",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Floristería",
+    "address": "12 de Febrero y Pedro Vicente Maldonado &, Nueva Loja, Ecuador",
+    "neighborhood": null,
+    "street": "12 de Febrero y Pedro Vicente Maldonado &",
+    "city": "Nueva Loja",
+    "postalCode": null,
+    "state": null,
+    "countryCode": "EC",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 0.0949263,
+      "lng": -76.8834077
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJTd6NZgAjKI4RoIOKgfWdnZg",
+    "categories": [
+      "Floristería"
+    ],
+    "fid": "0x8e282300668dde4d:0x989d9df5818a83a0",
+    "cid": "10997119542874506144",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T15:12:23.436Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Decoflor&query_place_id=ChIJTd6NZgAjKI4RoIOKgfWdnZg",
+    "searchPageUrl": "https://www.google.com/maps/search/floristerias%20en%20lago%20agrio%20sucumbios?hl=es",
+    "searchString": "floristerias en lago agrio sucumbios",
+    "language": "es",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=I9yBaiGQO__8RjwgM4SE9g&cb_client=search.gws-prod.grass&w=408&h=240&yaw=343.63705&pitch=0&thumbfov=100",
+    "kgmid": "/g/11z4xl2673",
+    "businessProfileId": null
+  },
+  {
+    "title": "ROSAS ETERNAS Y DETALLES LAGO AGRIO",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Entrega de flores",
+    "address": "ENTRE LATACUNGA Y CARCHI, EC210150 y Av. Del Maestro, 210201 Nueva Loja, Ecuador",
+    "neighborhood": null,
+    "street": "ENTRE LATACUNGA Y CARCHI, EC210150 y Av. Del Maestro",
+    "city": "Nueva Loja",
+    "postalCode": "210201",
+    "state": null,
+    "countryCode": "EC",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 0.0950333,
+      "lng": -76.8966915
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJI7xLKmcjKI4RyxeIGEpoU34",
+    "categories": [
+      "Entrega de flores"
+    ],
+    "fid": "0x8e2823672a4bbc23:0x7e53684a188817cb",
+    "cid": "9102733939294345163",
+    "reviewsCount": null,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-10-19T15:12:23.436Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "lunes",
+        "hours": "8 AM to 12 a.m."
+      },
+      {
+        "day": "martes",
+        "hours": "12 to 6 AM, 8 AM to 12 a.m."
+      },
+      {
+        "day": "miércoles",
+        "hours": "12 to 6 AM, 8 AM to 12 a.m."
+      },
+      {
+        "day": "jueves",
+        "hours": "12 to 6 AM, 8 AM to 12 a.m."
+      },
+      {
+        "day": "viernes",
+        "hours": "12 to 6 AM, 8 AM to 12 a.m."
+      },
+      {
+        "day": "sábado",
+        "hours": "12 to 6 AM, 8 AM to 12 a.m."
+      },
+      {
+        "day": "domingo",
+        "hours": "12 to 6 AM"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=ROSAS%20ETERNAS%20Y%20DETALLES%20LAGO%20AGRIO&query_place_id=ChIJI7xLKmcjKI4RyxeIGEpoU34",
+    "searchPageUrl": "https://www.google.com/maps/search/floristerias%20en%20lago%20agrio%20sucumbios?hl=es",
+    "searchString": "floristerias en lago agrio sucumbios",
+    "language": "es",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6Xvj6mfKOFTG7RAZd_DZqw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=278.9149&pitch=0&thumbfov=100",
+    "kgmid": "/g/11xv25973d",
+    "businessProfileId": "13897175377777233324"
+  }
+]

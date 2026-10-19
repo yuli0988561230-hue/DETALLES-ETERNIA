@@ -1,13 +1,18 @@
 {
   "name": "detalles-eternia",
   "version": "1.0.0",
+  "type": "module",
   "description": "Detalles Eternia - Arreglos florales naturales y flores eternas en listón desde Lago Agrio para todo el Ecuador",
   "private": true,
   "scripts": {
-    "test:env": "node scripts/check-env.js",
-    "test:apify": "node scripts/test-apify.js",
-    "test:github": "node scripts/test-github.js",
-    "test:vercel": "node scripts/test-vercel.js"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test:env": "node scripts/check-env.cjs",
+    "test:apify": "node scripts/test-apify.cjs",
+    "test:github": "node scripts/test-github.cjs",
+    "test:vercel": "node scripts/test-vercel.cjs",
+    "market:research": "node scripts/run-apify-market-research.cjs"
   },
   "keywords": [
     "flores-eternas",
@@ -18,5 +23,20 @@
     "detalles-eternia"
   ],
   "author": "Detalles Eternia",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@vitejs/plugin-react": "^4.7.0",
+    "autoprefixer": "^10.6.1",
+    "postcss": "^8.5.31",
+    "tailwindcss": "^4.3.3",
+    "vite": "^6.4.4"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.109.0",
+    "canvas-confetti": "^1.9.4",
+    "lucide-react": "^1.59.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  }
 }
