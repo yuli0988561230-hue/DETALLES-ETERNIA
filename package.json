@@ -1,0 +1,22 @@
+{
+  "name": "detalles-eternia",
+  "version": "1.0.0",
+  "description": "Detalles Eternia - Arreglos florales naturales y flores eternas en listón desde Lago Agrio para todo el Ecuador",
+  "private": true,
+  "scripts": {
+    "test:env": "node scripts/check-env.js",
+    "test:apify": "node scripts/test-apify.js",
+    "test:github": "node scripts/test-github.js",
+    "test:vercel": "node scripts/test-vercel.js"
+  },
+  "keywords": [
+    "flores-eternas",
+    "flores-liston",
+    "arreglos-florales",
+    "lago-agrio",
+    "ecuador",
+    "detalles-eternia"
+  ],
+  "author": "Detalles Eternia",
+  "license": "ISC"
+}
